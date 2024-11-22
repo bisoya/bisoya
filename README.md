@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
-![jectgenius's GitHub stats](https://github-readme-stats.vercel.app/api?username=jectgenius&show_icons=true&theme=transparent)
+![bisoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=bisoya&show_icons=true&theme=transparent)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={jkl9087})](https://solved.ac/{handle})
 
