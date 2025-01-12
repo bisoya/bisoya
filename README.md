@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 
-![Head](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자%20취준하고%20있는%20심재람입니다.&fontAlign=50&fontSize=40)
+![Head](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자%20심재람입니다.&fontAlign=50&fontSize=40)
 
 ![Spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
